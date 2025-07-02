@@ -151,7 +151,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero-avatar {
   width: 8rem;
   height: 8rem;
-  background-image: url('jkkik.png'); /* atau 'assets/foto.png' jika disimpan dalam folder */
+  background-image: url=('img/jkkik.png');
   background-size: cover;
   background-position: center;
   border-radius: 50%;
@@ -280,7 +280,7 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     justify-content: center;
     font-size: 4rem;
-    background-image: url('YMC ICON 2.png');
+    background-image: url('img/YMC ICON 2.png');
     background-size: cover;
     background-position: center;
     color: rgba(255, 255, 255, 0.8);
